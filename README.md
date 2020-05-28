@@ -3,13 +3,21 @@ This program allows the user to search through his/her computer directories, and
 displayed in hexidecimal format, or encrypted/decrypted with an XOR cipher. It starts by displaying a menu: 
 
 0 - Exit 
+
 1 - Select Directory 
-2 - List directory content (first level) 
+
+2 - List directory content (first level)
+
 3 - List directory content (all levels) 
+
 4 - Delete file 
+
 5 - Display file (hexadecimal view) 
+
 6 - Encrypt file (XOR with password) 
+
 7 - Decrypt file (XOR with password) 
+
 Select option: 
 
 

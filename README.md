@@ -1,6 +1,6 @@
 
 This program allows the user to search through his/her computer directories, and select files. These files can then be deleted, 
-displayed in hexidecimal format, or encrypted/decrypted with an XOR cipher. It starts by displaying a menu:
+displayed in hexidecimal format, or encrypted/decrypted with an XOR cipher. It starts by displaying a menu: 
 
 0 - Exit
 1 - Select Directory
